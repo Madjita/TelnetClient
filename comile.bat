@@ -1,0 +1,1 @@
+g++ parser.cpp str_switch.h -o parser.exe -lwsock32 -lWs2_32 -std=c++11
